@@ -5,7 +5,7 @@
  # 2. Клонировать репозиторий XML на локальный компьютер.
  
      cd ..
-     git clone https://github.com/marg0sh/XML.git
+     git clone https://github.com/Ilyamrkl/XML.git
      
  # 3. Внутри локального XML создать файл “new.xml”.
  # 4. Добавить файл под гит.
